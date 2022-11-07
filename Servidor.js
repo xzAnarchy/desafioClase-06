@@ -16,10 +16,6 @@ const fs = require("fs").promises;
 const path = require("path");
 
 //Traigo la clase de el desafio anterior
-
-// Importo los productos del txt
-const contenedor = new Contenedor("productos.txt");
-
 class Contenedor {
     constructor(path) {
         this.path = path
@@ -84,6 +80,8 @@ class Contenedor {
 
     }
 }
+// Traigo el txt con los productos
+const contenedor = new Contenedor("productos.txt");
 
 app.get('/', (req, res) => {
     res.send(`<h1 style='color:blue'> Hola Mundo </h1>`)
