@@ -1,0 +1,25 @@
+{
+  "name": "desafioclase06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Servidor.js",
+  "scripts": {
+    "test": "nodemon Servidor.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xzAnarchy/desafioClase-06-backend.git"
+  },
+  "author": "zAnarchy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xzAnarchy/desafioClase-06-backend/issues"
+  },
+  "homepage": "https://github.com/xzAnarchy/desafioClase-06-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

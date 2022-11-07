@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nombre": "Aguacate",
+        "precio": 40,
+        "cantidad": 10
+    },
+    {
+        "id": 2,
+        "nombre": "Manzana",
+        "precio": 10,
+        "cantidad": 50
+    },
+    {
+        "id": 3,
+        "nombre": "Mandarina",
+        "precio": 45,
+        "cantidad": 65
+    },
+    {
+        "id": 4,
+        "nombre": "Banana",
+        "precio": 27,
+        "cantidad": 15
+    }
+]
